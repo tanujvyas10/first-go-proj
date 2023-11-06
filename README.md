@@ -1,6 +1,7 @@
 # Ticket Booking Application
 
 This is a basic ticket booking application written in Go. It allows users to book tickets for various events and manage their bookings.
+Credit: [CLICK HERE](https://www.youtube.com/watch?v=yyUHQIec83I&t=8214s)
 
 ## Table of Contents
 
