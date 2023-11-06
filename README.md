@@ -1,6 +1,7 @@
 # Ticket Booking Application
 
 This is a basic ticket booking application written in Go. It allows users to book tickets for various events and manage their bookings.
+Credit: [CLICK HERE](https://www.youtube.com/watch?v=yyUHQIec83I&t=8214s)
 
 ## Table of Contents
 
@@ -24,6 +25,6 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/ticket-booking-app.git
+   git clone https://github.com/tanujvyas10/first-go-proj
    cd ticket-booking-app
    ```
